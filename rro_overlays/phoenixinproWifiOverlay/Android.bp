@@ -1,6 +1,6 @@
 runtime_resource_overlay {
-    name: "SweetinproWifiOverlay",
-    theme: "SweetinproWifiOverlay",
+    name: "phoenixinproWifiOverlay",
+    theme: "phoenixinproWifiOverlay",
     sdk_version: "current",
     product_specific: true
 }
